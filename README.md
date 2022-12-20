@@ -1,2 +1,1 @@
-# interfacesGraficas-java
-Estudando a criação de interfaces gráficas básicas com Java utilizando Swing
+# Um pouco de interfaces gráficas em Java!
